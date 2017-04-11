@@ -1,3 +1,6 @@
+# don't grab the html file
+fresh_tomatoes.html
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db

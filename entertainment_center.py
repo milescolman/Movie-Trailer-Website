@@ -1,8 +1,9 @@
 import fresh_tomatoes
 import media
 
-# Generate the movies to list:
-hunger_games = media.Movie("Hunger Games", 
+# Generate the movie objects to list:
+# hunger games and avatar were in the udacity example (we like the same movies)
+hunger_games = media.Movie("Hunger Games",
                            "http://upload.wikimedia.org/wikipedia/en/4/42/HungerGamesPoster.jpg",  #NOQA
                            "https://www.youtube.com/watch?v=PbA63a7H0bo")  #NOQA
 
